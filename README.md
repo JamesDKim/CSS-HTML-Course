@@ -1,3 +1,3 @@
 # Kokao Clone 2020 Update
 
-CSS got so much better!
+HTLM & CSS are so much fun!
